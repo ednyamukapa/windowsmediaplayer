@@ -1,0 +1,16 @@
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Resources.resources
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.vbproj.GenerateResource.Cache
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.xml
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.xml
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Main.resources
+c:\users\captain\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.about.resources
